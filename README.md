@@ -1,5 +1,7 @@
 # ExRateLimit
 
+This is the example of how to rate limitting the request from client on Elixir Phoenix application
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
